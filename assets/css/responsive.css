@@ -1,0 +1,583 @@
+@media (max-width: 1366px) {
+
+
+}
+
+@media (max-width: 1024px) {
+    .hero_area .bannner_content {
+        padding: 200px 0 160px;
+    }
+    .hero_area .bannner_content p.banner_pra {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .hero_area .Banner-ri {
+        margin-top: 70px;
+        margin-right: 0px;
+    }
+
+    .features_wrap .features_pa_bo {
+        padding: 65px 0 37px;
+    }
+    .features_wrap .pt-tb {
+        padding: 70px 0 0 0;
+    }
+    .features_wrap .more_featuresri {
+        padding-top: 70px;
+    }
+    .features_wrap .more_featuresri {
+        padding-bottom: 40px;
+    }
+    .features_wrap .pr-100 {
+        margin-right: -25px;
+    }
+    .features_wrap .pt-180 {
+        padding-bottom: 45px;
+    }
+    .call_to_action {
+        padding: 85px 0 75px;
+    
+    }
+    .call_to_action .call_Inner h2 {
+        color: #ffffff;
+        font-size: 50px;
+        line-height: 50px;
+        padding-bottom: 8px;
+    }
+    .call_to_action .call_Inner p {
+        font-size: 20px;
+        line-height: 35px;
+        padding-bottom: 35px;
+    }
+    .more_services {
+        padding: 90px 0 50px;
+    }
+    .more_services .single_services {
+        margin-bottom: 15px;
+    }
+    .team_wrap .single-team {
+        margin-bottom: 18px;
+    }
+    .more_services .single_services .service_left {
+        padding: 0 20px 0 10px;
+    }
+    .more_services .service_ri h4 {
+        padding-bottom: 6px;
+
+    }
+    .more_services .service_ri {
+        padding-bottom: 30px;
+    }
+    .more_services .service_ri p {
+        font-size: 14px;
+    }
+    .more_services .team_Inner p {
+        padding-bottom: 40px;
+    }
+    .more_services .team_Inner h3 {
+        font-size: 35px;
+        line-height: 40px;
+        padding-bottom: 20px;
+    }
+    .team_wrap {
+        padding: 82px 0 75px;
+    }
+    .team_wrap .team_Inner p {
+        padding-bottom: 40px;
+    }
+    .team_wrap .single-team .team_into p.team_pra {
+       
+        padding-bottom: 11px;
+    }
+
+    .reviews {
+        padding: 84px 0 34px;
+    }
+    .reviews .reviews_inner p {
+        padding-bottom: 40px;
+    }
+    .reviews .single_reviews {
+        margin: 30px 0 35px;
+    }
+
+    .reviews .single_reviews .single_client i {
+        font-size: 40px;
+        left: 42px;
+        top: -17px;
+    }
+    .reviews .single_reviews .single_client p.testimonial {
+        padding-bottom: 13px;
+    }
+    .reviews .test.slick-initialized.slick-slider.slick-dotted {
+        margin-bottom: 25px;
+    }
+    .subscribe_Ptb {
+        padding: 80px 0 80px;
+    }
+    .subscribe_wrap .subscribe_more button.Submit_btn {
+        right: 2px;
+  
+    }
+    .subscribe_wrap .subscribe_heading h3 {
+        padding-bottom: 35px;
+    }
+    .footer_bottom {
+        padding: 80px 0 40px;
+    }
+    .footer_bottom .single_fo_he h4 {
+        padding-bottom: 18px;
+    }
+    .footer_bottom .single_fotter p.fottr_pra {
+        padding-bottom: 16px;
+    }
+    .footer_bottom .fotter_li .side-re {
+        padding-bottom: 9px;
+    }
+    .single_fo_he .tag_foter a {
+        padding: 0 9px;
+    }
+    .single_fo_he .fotter_li ul li a {
+        line-height: 30px;
+    }
+    .fotter_li.pt-15 {
+        padding-top: 8px;
+    }
+    .copy_tems ul li {
+        margin-left: 30px;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .header nav.Main_menu .res_cus {
+        background: #fff;
+        max-height: 200px;
+        overflow-y: scroll !important;
+    }
+
+    .header nav.Main_menu ul {
+        
+        padding: 12px 0;
+    }
+     .header nav.Main_menu .contact_btn a {
+         margin-bottom: 30px; 
+    } 
+
+    .header nav.Main_menu ul li {
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .header nav.Main_menu .contact_btn {
+        margin-left: 0;
+        text-align: center;
+    }
+    .hero_area .bannner_content {
+        padding: 180px 0 120px;
+    }
+    .features_wrap .custom_img {
+        padding-left: 0;
+
+    }
+    
+    .hero_area .bannner_content h2 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .features_wrap .features_pa_bo {
+        padding: 50px 0 16px;
+    }
+    .features_wrap .features_pa_bo .single-feature h4 {
+        line-height: 35px;
+        font-size: 16px;
+    }
+    .features_wrap .features_pa_bo .single-feature p {
+        line-height: 25px;
+    }
+    .features_wrap .more_featuresri {
+        padding-bottom: 0px;
+    }
+    .features_wrap .pt-tb {
+        padding: 60px 0 0 0;
+    }
+    .features_wrap .more_featuresri h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 15px;
+    }
+    .features_wrap .pt-180 {
+        padding-bottom: 60px;
+    }
+    .features_wrap .pr-100 {
+        margin-right: -25px;
+    }
+    .call_to_action {
+        padding: 70px 0 70px;
+    }
+    .call_to_action .call_Inner h2 {
+        font-size: 40px;
+        line-height: 34px;
+    }
+    .call_to_action .call_Inner p {
+        font-size: 17px;
+        line-height: 24px;
+        padding-bottom: 26px;
+    }
+    .call_to_action .call_Inner a {
+        padding: 16px 70px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .more_services {
+        padding: 65px 0 15px;
+    }
+    .features_wrap .features_pa_bo .single-feature {
+        padding: 35px 15px;
+    }
+    .more_services .team_Inner h3 {
+        font-size: 30px;
+        line-height: 28px;
+        padding-bottom: 14px;
+    }
+    .more_services .single_services .service_left {
+        padding: 0 12px 0 0px;
+    }
+    .more_services .team_Inner p {
+        padding-bottom: 35px;
+        line-height: 26px;
+    }
+    .more_services .service_ri h4 {
+        font-size: 17px;
+        padding-bottom: 4px;
+    }
+    .more_services .service_ri p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .more_services .single_services .service_left img {
+        max-width: 35px;
+    }
+    .team_wrap {
+        padding: 60px 0 50px;
+    }
+    .team_wrap .single-team .team_into {
+        padding: 18px 7px 15px;
+    }
+    .team_wrap .single-team .team_into span.team_po {
+        font-size: 16px;
+        line-height: 22px;
+        padding-bottom: 5px;
+    }
+    .team_wrap .single-team .team_into p.team_pra {
+        font-size: 14px;
+        line-height: 22px;
+        padding-bottom: 0;
+    }
+
+    .reviews {
+        padding: 58px 0 25px;
+    }
+
+    .reviews .single_reviews {
+        margin: 30px 0 27px;
+    }
+  
+    .single_fo_he .tag_foter a {
+        font-size: 12px;
+        line-height: 30px;
+        padding: 0px 4px;
+        margin: 0 2px 7px 0;
+    }
+    .footer_bottom .single_fotter p.fottr_pra {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .single_fo_he .fotter_li ul li a{
+        font-size: 14px;
+    }
+    .footer_bottom .single_fo_he .fotter_li .foot-li-ri p {
+        margin-left: 10px;
+        font-size: 14px;
+    }
+    .footer_bottom .single_fo_he .fotter_li .foot-li-ri li {
+        margin-left: 10px;
+    }
+    .fotter_li.pt-15 {
+        padding-top: 2px;
+    }
+
+    .footer_bottom .single_fo_he .fotter_li .foot-li-ri li a {
+        text-decoration: none;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .copy_tems ul li a {
+        font-size: 13px;
+    }
+
+    .reviews .test.slick-initialized.slick-slider.slick-dotted {
+        padding-bottom: 0px;
+    }
+    .features_wrap .pr-100 {
+        margin-right: 0;
+        text-align: center;
+        margin-top: 140px;
+    }
+    .features_wrap .pt-180 {
+        padding-bottom: 70px;
+    }
+    .reviews .single_reviews {
+        padding: 25px 30px 25px;
+    }
+    .reviews .single_reviews .single_client i {
+        font-size: 30px;
+        left: 32px;
+        top: -17px;
+    }
+    .reviews .reviews_inner p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .reviews .reviews_inner p {
+        padding-bottom: 18px;
+    }
+    .subscribe_Ptb {
+        padding: 50px 0 60px;
+    }
+    .subscribe_wrap .subscribe_news input.Email_cus {
+        height: 52px;
+        font-size: 15px;
+        line-height: 36px;
+        padding-left: 25px;
+    }
+    .subscribe_wrap .subscribe_more button.Submit_btn {
+        right: 2px;
+        padding: 8px 40px;
+        font-size: 14px;
+    }
+        .subscribe_wrap .subscribe_heading h3 {
+            font-size: 30px;
+            line-height: 36px;
+            padding-bottom: 26px;
+        }
+        .footer_bottom .single_fotter img {
+            padding-bottom: 10px;
+            max-width: 130px;
+        }
+        .footer_bottom {
+            padding: 50px 0 25px;
+        }
+        .footer_bottom .single_fotter p.fottr_pra {
+            line-height: 24px;
+            padding-bottom: 10px;
+        }
+        .footer_bottom .single_fo_he h4 {
+            padding-bottom: 10px;
+        }
+        .footer_bottom .single_fo_he .fotter_li .foot-li-ri p {
+            font-size: 14px;
+            line-height: 24px;
+            padding-bottom: 0px;
+        }
+        .footer_bottom .single_fo_he .fotter_li .foot-li-ri {
+            margin-left: 8px;
+        }
+        .footer_bottom .fotter_li .side-re p {
+            font-size: 14px;
+            line-height: 22px;
+        }
+        .footer_bottom .fotter_li .side-re {
+            margin-left: 8px;
+        }
+        .footer_bottom .follow_us {
+            padding-top: 4px;
+        }
+        .copy_tems ul li {
+            margin-left: 14px;
+        }
+}
+
+
+@media (max-width: 767px) {
+    .hero_area .bannner_content {
+        padding: 195px 0 30px;
+    }
+    .features_wrap .features_pa_bo {
+        padding: 40px 0 16px;
+    }
+    .call_to_action {
+        padding: 68px 0 60px;
+    }
+
+    .more_services {
+        padding: 77px 0 17px;
+    }
+    .team_wrap .single-team {
+        margin-bottom: 30px;
+    }
+    .reviews {
+        padding: 57px 0 25px;
+    }
+    .features_wrap .features_pa_bo .single-feature h4 {
+        font-size: 20px;
+    }
+    .features_wrap .features_pa_bo .single-feature img {
+        padding-bottom: 12px;
+    }
+    .features_wrap .more_featuresri a {
+        margin-bottom: 20px;
+    }
+
+    .features_wrap .more_featuresri {
+        padding-top: 30px;
+    }
+    .features_wrap .pt-tb {
+        padding: 50px 0 0 0;
+    }
+    .features_wrap .pt-180 {
+        padding-bottom: 65px;
+    }
+    .features_wrap .pr-100 {
+        margin-top: 32px;
+    }
+    .features_wrap .more_featuresri {
+        padding-top: 20px;    
+         margin-bottom: 30px;
+    }
+    .features_wrap .more_featuresri h3 {
+        padding-bottom: 12px;
+        font-size: 28px;
+        line-height: 28px;
+    
+    }
+    .features_wrap .custom_img {
+        margin-left: 0;
+    }
+    .features_wrap .pr-100 {
+        margin-right: 0;
+    }
+    .more_services .single_services {
+        display: block;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .more_services .service_ri h4 {
+        font-size: 20px;
+        padding-bottom: 4px;
+    }
+    .more_services .service_ri p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .more_services .team_Inner p {
+        padding-bottom: 26px;
+        line-height: 26px;
+        font-size: 15px;
+    }
+    .more_services .single_services .service_left img {
+        max-width: none;
+        margin-bottom: 20px;
+    }
+    .single_fo_he.cusmar h4 {
+        margin-bottom: 25px;
+    }
+    .subscribe_wrap .subscribe_more button.Submit_btn {
+        right: 2px;
+        padding: 8px 40px;
+        font-size: 14px;
+    }
+    .footer_bottom {
+        padding: 50px 0 40px;
+    }
+    .footer_bottom .single_fotter {
+        margin-bottom: 20px;
+    }
+    .copy_right {
+        text-align: center;
+    }
+    .copy_tems ul {
+        text-align: center;
+    }
+    
+}
+
+
+@media ( max-width: 576px) {
+    .single_fo_he.cusmar h4 {
+        margin: 6px 0 10px;
+    }
+}
+
+
+@media (min-width: 320px) and (max-width: 640px){
+    .features_wrap .more_featuresri {
+        padding-bottom: 40px;
+    }
+
+    .Bannner_inner {
+        text-align: left;
+    }
+    .features_wrap .more_featuresri {
+        padding-top: 0;
+        margin-bottom: 0;
+        text-align: center;
+    }
+    .call_to_action .call_Inner h2 {
+        font-size: 35px;
+        line-height: 32px;
+    }
+    .more_services {
+        padding: 45px 0 10px;
+    }
+    .team_wrap .single-team {
+        margin-bottom: 30px;
+    }
+    .footer_bottom .single_fo_he h4 {
+        padding-bottom: 15px;
+    }
+    .team_wrap {
+        padding: 44px 0;
+    }
+    .reviews .slick-dots li {
+        display: none;
+    }
+    .single_fo_he {
+        margin-bottom: 15px;
+    }
+    .reviews {
+        padding: 44px 0 10px;
+    }
+    .reviews .reviews_inner h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 18px;
+    }
+    .team_wrap .team_Inner h3 {
+        font-size: 30px;
+        line-height: 30px;
+        padding-bottom: 10px;
+    }
+    .team_wrap .team_Inner p {
+        font-size: 16px;
+        line-height: 24px;
+        padding-bottom: 28px;
+    }
+    .subscribe_wrap .subscribe_news input.Email_cus {
+        height: 45px;
+        font-size: 13px;
+        line-height: 24px;
+        padding-left: 17px;
+    }
+    .subscribe_wrap .subscribe_more button.Submit_btn {
+        right: 2px;
+        padding: 4px 28px;
+        font-size: 12px;
+    }
+    .copy_tems ul li {
+        margin-left: 8px;
+    }
+
+ 
+
+}
